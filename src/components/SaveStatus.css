@@ -1,0 +1,30 @@
+.storage-status-slot {
+  display: flex;
+  min-height: 2.5rem;
+  margin: -0.25rem 0 0.75rem;
+  align-items: center;
+}
+
+.storage-status {
+  width: fit-content;
+  max-width: 100%;
+  margin: 0;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid rgba(169, 149, 255, 0.35);
+  border-radius: 0.65rem;
+  color: #d8d1e6;
+  background: rgba(21, 18, 31, 0.88);
+  font-size: 0.82rem;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.storage-status--success {
+  border-color: rgba(169, 149, 255, 0.55);
+  color: #e3ddff;
+}
+
+.storage-status--error {
+  border-color: rgba(255, 154, 170, 0.55);
+  color: #ffd8df;
+}
