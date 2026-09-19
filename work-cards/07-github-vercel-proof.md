@@ -81,4 +81,4 @@ If credentials, secret exposure, repository ownership, push permissions, or depl
 
 ## Status
 
-In progress — final build and safety preflight passed; preparing GitHub/Vercel proof.
+Complete — GitHub and Vercel are live; agent and learner live-origin checks passed; Strong proof recorded.
